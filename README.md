@@ -32,10 +32,8 @@ The main objectives of this project are:
 
 1. **Accurate Reference Tracking:** Achieve precise tracking of a time-varying roll rate reference trajectory.
 2. **Zero Steady-State Error:** Ensure zero steady-state error without overshoot.
-3. **Performance Guarantee:** Attain a prescribed settling time of
-$$
-T_{s1\%} = 3.0 \, \text{s}
-$$
+3. **Performance Guarantee:** Attain a prescribed settling time of T_{s1%} = 3.0 s
+
 
 5. **Robustness:** Handle noise and parametric uncertainties effectively.
 
