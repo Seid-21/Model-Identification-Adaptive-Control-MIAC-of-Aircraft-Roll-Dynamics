@@ -117,7 +117,12 @@ The main objectives of this project are:
 
 - **Noise-Free Conditions:** Excellent tracking with all performance objectives met.
 - **Low Noise $(\( \sigma^2_e = 0.01 \))$:** Robust tracking with minimal degradation.
+  
+![1](https://github.com/user-attachments/assets/fbfd960a-cf3b-40df-a23b-ca9d40d87d4b)
+  
 - **High Noise $(\( \sigma^2_e = 0.1 \))$:** Stable performance with slight degradation.
+
+  ![2](https://github.com/user-attachments/assets/ba0f11c5-a1bf-4a35-be68-af22e4654af6)
 
 The system demonstrated superior performance compared to fixed-gain controllers, particularly in scenarios with parameter variations.
 
