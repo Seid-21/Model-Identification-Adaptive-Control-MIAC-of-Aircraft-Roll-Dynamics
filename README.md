@@ -1,3 +1,4 @@
+$u(t) = w_1 e(t) + w_2 y_r(t) + w_3 \dot{y}_r(t)$
 
 # Model-Identification Adaptive Control (MIAC) of Aircraft Roll Dynamics
 
