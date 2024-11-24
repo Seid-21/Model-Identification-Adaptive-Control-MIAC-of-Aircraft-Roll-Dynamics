@@ -3,7 +3,7 @@
 
 ---
 
-# Model-Identification Adaptive Control (MIAC) of Aircraft Roll Dynamics
+
 
 This repository contains the implementation of a **Model-Identification Adaptive Control (MIAC)** system for an aircraft's roll dynamics. The project demonstrates adaptive control techniques to achieve robust tracking performance under varying plant parameters and noise conditions.
 
