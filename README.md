@@ -99,9 +99,9 @@ The main objectives of this project are:
 
 1. **Model Parameters**
    - Plant modeled as a first-order linear system:
-     $$
+     
      $T_0 \dot{y} + y = k_0 u$
-     $$
+     
      where $\( T_0, k_0 \)$ are unknown and time-varying.
 
 2. **Adaptive Control**
